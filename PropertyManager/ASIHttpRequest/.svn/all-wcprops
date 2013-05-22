@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/SR/!svn/ver/101/trunk/app/com.wuxianying.product.iphone/WuxianyingProForJson/ASIHttpRequest
+END
+ASIHTTPRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/SR/!svn/ver/101/trunk/app/com.wuxianying.product.iphone/WuxianyingProForJson/ASIHttpRequest/ASIHTTPRequest.m
+END
+ASICacheDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/SR/!svn/ver/101/trunk/app/com.wuxianying.product.iphone/WuxianyingProForJson/ASIHttpRequest/ASICacheDelegate.h
+END
+ASINetworkQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/SR/!svn/ver/101/trunk/app/com.wuxianying.product.iphone/WuxianyingProForJson/ASIHttpRequest/ASINetworkQueue.h
+END
+ASIDataDecompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/SR/!svn/ver/101/trunk/app/com.wuxianying.product.iphone/WuxianyingProForJson/ASIHttpRequest/ASIDataDecompressor.h
+END
+ASIAuthenticationDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/SR/!svn/ver/101/trunk/app/com.wuxianying.product.iphone/WuxianyingProForJson/ASIHttpRequest/ASIAuthenticationDialog.h
+END
+ASIProgressDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/SR/!svn/ver/101/trunk/app/com.wuxianying.product.iphone/WuxianyingProForJson/ASIHttpRequest/ASIProgressDelegate.h
+END
+ASIDownloadCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/SR/!svn/ver/101/trunk/app/com.wuxianying.product.iphone/WuxianyingProForJson/ASIHttpRequest/ASIDownloadCache.m
+END
+ASINetworkQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/SR/!svn/ver/101/trunk/app/com.wuxianying.product.iphone/WuxianyingProForJson/ASIHttpRequest/ASINetworkQueue.m
+END
+Reachability.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/SR/!svn/ver/101/trunk/app/com.wuxianying.product.iphone/WuxianyingProForJson/ASIHttpRequest/Reachability.h
+END
+ASIDataDecompressor.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/SR/!svn/ver/101/trunk/app/com.wuxianying.product.iphone/WuxianyingProForJson/ASIHttpRequest/ASIDataDecompressor.m
+END
+ASIAuthenticationDialog.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/SR/!svn/ver/101/trunk/app/com.wuxianying.product.iphone/WuxianyingProForJson/ASIHttpRequest/ASIAuthenticationDialog.m
+END
+ASIFormDataRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/SR/!svn/ver/101/trunk/app/com.wuxianying.product.iphone/WuxianyingProForJson/ASIHttpRequest/ASIFormDataRequest.h
+END
+Reachability.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/SR/!svn/ver/101/trunk/app/com.wuxianying.product.iphone/WuxianyingProForJson/ASIHttpRequest/Reachability.m
+END
+ASIInputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/SR/!svn/ver/101/trunk/app/com.wuxianying.product.iphone/WuxianyingProForJson/ASIHttpRequest/ASIInputStream.h
+END
+ASIFormDataRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/SR/!svn/ver/101/trunk/app/com.wuxianying.product.iphone/WuxianyingProForJson/ASIHttpRequest/ASIFormDataRequest.m
+END
+ASIHTTPRequestConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/SR/!svn/ver/101/trunk/app/com.wuxianying.product.iphone/WuxianyingProForJson/ASIHttpRequest/ASIHTTPRequestConfig.h
+END
+ASIInputStream.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/SR/!svn/ver/101/trunk/app/com.wuxianying.product.iphone/WuxianyingProForJson/ASIHttpRequest/ASIInputStream.m
+END
+ASIHTTPRequestDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/SR/!svn/ver/101/trunk/app/com.wuxianying.product.iphone/WuxianyingProForJson/ASIHttpRequest/ASIHTTPRequestDelegate.h
+END
+ASIDataCompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/SR/!svn/ver/101/trunk/app/com.wuxianying.product.iphone/WuxianyingProForJson/ASIHttpRequest/ASIDataCompressor.h
+END
+ASIHTTPRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/SR/!svn/ver/101/trunk/app/com.wuxianying.product.iphone/WuxianyingProForJson/ASIHttpRequest/ASIHTTPRequest.h
+END
+ASIDownloadCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/SR/!svn/ver/101/trunk/app/com.wuxianying.product.iphone/WuxianyingProForJson/ASIHttpRequest/ASIDownloadCache.h
+END
+ASIDataCompressor.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/SR/!svn/ver/101/trunk/app/com.wuxianying.product.iphone/WuxianyingProForJson/ASIHttpRequest/ASIDataCompressor.m
+END
